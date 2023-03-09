@@ -6,13 +6,14 @@
 }
 .image-text{
     text-align: center;
-    color: black;
-    padding-top: 180px;
+    color: red;
+    padding-top: 200px;
+    font-weight: 200;
 }
 .image-text h1{
-    font-size: 150px;
+    font-size: 180px;
 }
 .image-text p{
-    font-size: 35px;
+    font-size: 50px;
     font-style: italic;
 }
